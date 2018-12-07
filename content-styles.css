@@ -27,6 +27,10 @@
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
 }
 
+.birdseye .list-card-cover {
+  display: none;
+}
+
 .birdseye .list-header-menu-icon {
   color: rgba(255, 255, 255, 0.5);
 }
