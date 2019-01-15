@@ -1,4 +1,12 @@
 /**
+ * Generic overrides
+ */
+.list-card.active-card {
+  background: yellow !important;
+}
+
+
+/**
 * Overwrites the Trello styles when .birdseye is set on body
 */
 
