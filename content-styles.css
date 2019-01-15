@@ -7,6 +7,7 @@
 }
 
 .birdseye .list-wrapper {
+  width: 700px;
   margin: 0 0px;
 }
 
@@ -22,6 +23,8 @@
 }
 
 .birdseye .list-card {
+  width: 100%;
+  max-width: initial;
   margin-bottom: 0px;
   border-radius: 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.12);
